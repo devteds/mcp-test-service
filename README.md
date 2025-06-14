@@ -274,7 +274,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 🙏 Acknowledgments
 
-- **Author**: [Chandra Shettigar](mailto:chandra@devteds.com) - Project creator and maintainer
+- **Author**: [Chandra Shettigar](https://github.com/shettigarc) - Project creator and maintainer
 - **Anthropic** for the Model Context Protocol specification
 - **FastAPI** for the excellent web framework
 - **Pydantic** for data validation and serialization
