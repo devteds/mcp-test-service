@@ -1,0 +1,23 @@
+# Core MCP dependencies - MINIMAL VERSION
+# Only includes packages actually used in the codebase
+
+# MCP SDK for client and server functionality
+mcp>=1.9.0
+
+# Web framework for HTTP endpoints
+fastapi>=0.104.0
+uvicorn[standard]>=0.24.0
+
+# HTTP client for MCP client example
+httpx>=0.25.0
+
+# Data validation and models
+pydantic>=2.5.0
+
+# Testing framework
+pytest>=7.4.0
+
+# Development tools (optional - only if you want formatting/linting)
+black>=23.11.0
+isort>=5.12.0
+flake8>=6.1.0 
