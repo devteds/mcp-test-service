@@ -16,7 +16,7 @@ This project demonstrates how to build, test, and deploy MCP services using mode
 
 ## 📖 Related Blog Post
 
-This code was written as a companion to the blog post: **[Building Your First MCP Server]** *(https://dev.to/shettigarc/building-your-first-mcp-server-53e8)*
+This code was written as a companion to the blog post: **[Building Your First MCP Server](https://dev.to/shettigarc/building-your-first-mcp-server-53e8)**
 
 The blog post covers the theory and best practices behind MCP service development, while this repository provides the complete working implementation.
 
